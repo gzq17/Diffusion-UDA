@@ -19,6 +19,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+run_train.sh
 
 # PyInstaller
 *.manifest
